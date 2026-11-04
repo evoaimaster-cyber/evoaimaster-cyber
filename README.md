@@ -12,7 +12,7 @@ SIerを経営していたときには、オリジナルの搬送ロボットを�
 FreeCADを土台に、治具の設計とロボットの動作確認を一緒に進めます。シミュレーターの導入費用を抑え、AIの支援で3Dモデルの作成や軌跡の検討にかかる工数を減らすことが目的です。  
 https://bizai-evo.com/pdf/R-SIM_Robot_Simulation_261103.pdf
 
-**MLR-SIM｜AI支援でラダー回路の作成を早める**  
+**MLR-SIM｜AI支援でLadder回路の作成を早める**  
 機構モデル、仮想PLC、自作の操作パネル「VCP」をつなぐ設備シミュレーターを開発しています。日本語ラダー／STエディター「PLCedi」も自作しています。AIで設備仕様の整理や回路の下書きを支援し、ラダー回路の作成と見直しにかかる工数を減らすことが目的です。  
 https://bizai-evo.com/pdf/MLR-SIM_Mechanical&ControlCircuitSimulation.pdf
 
